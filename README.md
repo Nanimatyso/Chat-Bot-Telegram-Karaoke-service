@@ -1,8 +1,7 @@
 # Chat-Bot-Telegram-Karaoke-service
 
 # Resumen del proyecto:
-Un grupo de amigos en búsqueda de una nueva idea divertida para renovar nuestros encuentros se nos ocurrió la idea de crear un chatbot de Telegram que devuelve una pista para realizar un karaoke. Al iniciar el bot, este solicita el nombre de la canción, para devolver la letra de la canción y un video de youtube con la pista de la canción, para poder revitalizar tus encuentros con amigos y crear memorias y momentos únicos.
-Somos un grupo de jóvenes interesados en crear un servicio para facilitarle la vida a alguien. Por eso creamos este proyecto que trata de un chatbot de Telegram que al iniciarlo te pide que ingreses el nombre de una canción. Con esa información el servicio te brinda la letra de la misma y un video de youtube con la pista para poder realizar un karaoke. 
+Somos un grupo de jóvenes interesados en crear un servicio para facilitarle la vida a alguien. Por eso creamos este proyecto que trata de un chatbot de Telegram con una nueva idea divertida para renovar nuestros encuentros. El bot te solicitará una canción para devolverte la pista de la canción versión karaoke. También se te solicitara el artista de la canción para devolverte la letra de la misma. Así podrás revitalizar tus encuentros con amigos y crear memorias y momentos únicos. 
 
 # Objetivos:
 - Facilitar la búsqueda de elementos para realizar un karaoke
